@@ -86,9 +86,9 @@ Nemo take a screenshot
 Nemo list files in current directory
 ```
 
-## Screenshots
 
-Add screenshots of the Nemo interface here.
+
+
 
 ## Future Improvements
 
